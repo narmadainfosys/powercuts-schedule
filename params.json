@@ -1,0 +1,6 @@
+{
+  "name": "Powercuts-schedule",
+  "tagline": "Nepal Loadshedding Schedule",
+  "body": "# Nepal Loadshedding Schedule\r\n\r\nVery Simple AngularJS app to display load shedding schedules of Nepal in beautiful table.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
