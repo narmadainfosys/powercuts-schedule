@@ -1,0 +1,218 @@
+[
+  {
+    "updated": {
+      "english": "2016-03-29",
+      "nepali": "2072-12-16"
+    },
+    "group_1": {
+      "sunday": {
+        "morning": "06:00-14:00",
+        "evening": "17:00-21:00"
+      },
+      "monday": {
+        "morning": "10:00-17:00",
+        "evening": "20:00-23:00"
+      },
+      "tuesday": {
+        "morning": "09:00-16:00",
+        "evening": "19:00-22:30"
+      },
+      "wednesday": {
+        "morning": "05:00-12:00",
+        "evening": "16:00-20:00"
+      },
+      "thursday": {
+        "morning": "07:00-15:00",
+        "evening": "18:00-21:30"
+      },
+      "friday": {
+        "morning": "04:00-09:00",
+        "evening": "12:00-18:00"
+      },
+      "saturday": {
+        "morning": "04:00-10:00",
+        "evening": "14:00-19:00"
+      }
+    },
+    "group_2": {
+      "sunday": {
+        "morning": "04:00-10:00",
+        "evening": "14:00-19:00"
+      },
+      "monday": {
+        "morning": "06:00-14:00",
+        "evening": "17:00-21:00"
+      },
+      "tuesday": {
+        "morning": "10:00-17:00",
+        "evening": "20:00-23:00"
+      },
+      "wednesday": {
+        "morning": "09:00-16:00",
+        "evening": "19:00-22:30"
+      },
+      "thursday": {
+        "morning": "05:00-12:00",
+        "evening": "16:00-20:00"
+      },
+      "friday": {
+        "morning": "07:00-15:00",
+        "evening": "18:00-21:30"
+      },
+      "saturday": {
+        "morning": "04:00-09:00",
+        "evening": "12:00-18:00"
+      }
+    },
+    "group_3": {
+      "sunday": {
+        "morning": "04:00-09:00",
+        "evening": "12:00-18:00"
+      },
+      "monday": {
+        "morning": "04:00-10:00",
+        "evening": "14:00-19:00"
+      },
+      "tuesday": {
+        "morning": "06:00-14:00",
+        "evening": "17:00-21:00"
+      },
+      "wednesday": {
+        "morning": "10:00-17:00",
+        "evening": "20:00-23:00"
+      },
+      "thursday": {
+        "morning": "09:00-16:00",
+        "evening": "19:00-20:30"
+      },
+      "friday": {
+        "morning": "05:00-12:00",
+        "evening": "16:00-20:00"
+      },
+      "saturday": {
+        "morning": "07:00-15:00",
+        "evening": "18:00-21:30"
+      }
+    },
+    "group_4": {
+      "sunday": {
+        "morning": "07:00-15:00",
+        "evening": "18:00-21:30"
+      },
+      "monday": {
+        "morning": "04:00-09:00",
+        "evening": "12:00-18:00"
+      },
+      "tuesday": {
+        "morning": "04:00-10:00",
+        "evening": "14:00-19:00"
+      },
+      "wednesday": {
+        "morning": "06:00-14:00",
+        "evening": "17:00-21:00"
+      },
+      "thursday": {
+        "morning": "10:00-17:00",
+        "evening": "20:00-23:00"
+      },
+      "friday": {
+        "morning": "09:00-16:00",
+        "evening": "19:00-22:30"
+      },
+      "saturday": {
+        "morning": "05:00-12:00",
+        "evening": "16:00-20:00"
+      }
+    },
+    "group_5": {
+      "sunday": {
+        "morning": "05:00-12:00",
+        "evening": "16:00-20:00"
+      },
+      "monday": {
+        "morning": "07:00-15:00",
+        "evening": "18:00-21:30"
+      },
+      "tuesday": {
+        "morning": "04:00-09:00",
+        "evening": "12:00-18:00"
+      },
+      "wednesday": {
+        "morning": "04:00-10:00",
+        "evening": "14:00-19:00"
+      },
+      "thursday": {
+        "morning": "06:00-14:00",
+        "evening": "17:00-21:00"
+      },
+      "friday": {
+        "morning": "10:00-17:00",
+        "evening": "20:00-23:00"
+      },
+      "saturday": {
+        "morning": "09:00-16:00",
+        "evening": "19:00-22:30"
+      }
+    },
+    "group_6": {
+      "sunday": {
+        "morning": "09:00-16:00",
+        "evening": "19:00-22:30"
+      },
+      "monday": {
+        "morning": "05:00-12:00",
+        "evening": "16:00-20:00"
+      },
+      "tuesday": {
+        "morning": "07:00-15:00",
+        "evening": "18:00-21:30"
+      },
+      "wednesday": {
+        "morning": "04:00-09:00",
+        "evening": "12:00-18:00"
+      },
+      "thursday": {
+        "morning": "04:00-10:00",
+        "evening": "14:00-19:00"
+      },
+      "friday": {
+        "morning": "06:00-14:00",
+        "evening": "17:00-21:00"
+      },
+      "saturday": {
+        "morning": "10:00-17:00",
+        "evening": "20:00-23:00"
+      }
+    },
+    "group_7": {
+      "sunday": {
+        "morning": "10:00-17:00",
+        "evening": "20:00-23:00"
+      },
+      "monday": {
+        "morning": "09:00-16:00",
+        "evening": "19:00-22:30"
+      },
+      "tuesday": {
+        "morning": "05:00-12:00",
+        "evening": "16:00-20:00"
+      },
+      "wednesday": {
+        "morning": "07:00-15:00",
+        "evening": "18:00-21:30"
+      },
+      "thursday": {
+        "morning": "04:00-09:00",
+        "evening": "12:00-18:00"
+      },
+      "friday": {
+        "morning": "04:00-10:00",
+        "evening": "14:00-19:00"
+      },
+      "saturday": {
+        "morning": "06:00-14:00",
+        "evening": "17:00-21:00"
+      }
+    }
+  }
+]
