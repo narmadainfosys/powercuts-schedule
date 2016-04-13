@@ -6,9 +6,8 @@
 </head>
 <body ng-app="PowerCut">
 	<div class="container" ng-controller="ScheduleCtrl">
-		<h1>Last Updated: {{ lastupdated }}</h1>
-
-		<table>
+		<div class="table-responsive">
+			<table class="table table-bordered table-striped">
 			<thead>
 			<tr>
 				<th>Groups/Days</th>
@@ -22,12 +21,16 @@
 			</tr>
 			</thead>
 			<tbody>
-			<tr ng-repeat="schedule in singledayschedule">
-				<td>{{ schedule.morning }}</td>
-				<td>{{ schedule.evening }}</td>
+			<tr ng-repeat="(group, schedule) in singledayschedule">
+				<td>{{ group }}</td>
+				<td ng-repeat="(day, times) in schedule">
+				<div>{{ times.morning }}</div>
+				<div>{{ times.evening }}</div>
+				</td>
 			</tr>
 			</tbody>
-		</table>
+			</table>
+		</div>
 	</div>
 </body>
 	<script type="text/javascript" src="vendor/angular/angular.js"></script>
